@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatyaRac/WebClockFrontEndPemula.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SatyaRac/WebClockFrontEndPemula/issues"
+  },
+  "homepage": "https://github.com/SatyaRac/WebClockFrontEndPemula#readme",
   "description": ""
 }
