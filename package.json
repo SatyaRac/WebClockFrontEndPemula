@@ -5,12 +5,9 @@
   "dependencies": {
     "jquery": "^3.5.0"
   },
-  
   "scripts": {
     "build": "webpack"
   },
-  
-  
   "author": "",
   "license": "ISC",
   "repository": {
@@ -21,5 +18,10 @@
     "url": "https://github.com/SatyaRac/WebClockFrontEndPemula/issues"
   },
   "homepage": "https://github.com/SatyaRac/WebClockFrontEndPemula#readme",
+  "devDependencies": {
+    "css-loader": "^3.5.2",
+    "style-loader": "^1.1.4"
+  },
+  "keywords": [],
   "description": ""
 }
