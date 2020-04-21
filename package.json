@@ -24,7 +24,8 @@
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.2",
     "html-webpack-plugin": "^4.2.0",
-    "style-loader": "^1.1.4"
+    "style-loader": "^1.1.4",
+    "webpack-dev-server": "^3.10.3"
   },
   "keywords": [],
   "description": ""
