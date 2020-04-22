@@ -6,7 +6,8 @@
     "jquery": "^3.5.0"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start-dev": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
